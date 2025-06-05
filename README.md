@@ -14,7 +14,7 @@ A Python application that recognizes handwritten digits using a Convolutional Ne
 - TensorFlow 2.x
 - NumPy
 - Pillow (PIL)
-- Tkinter (included with Python)
+- Tkinter
 
 Install required packages (either method):
 ```bash
